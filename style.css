@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    display: flex;
+    width: 80%;
+    border: 1px solid black;
+    border-radius: 3rem;
+}
+aside {
+    background-color: red;
+    width: 20%;
+}
+img {
+    border: 10px solid #cccccc;
+    border-radius: 5rem;
+    width: 150px;
+    height: 150px;
+}
